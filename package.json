@@ -1,11 +1,9 @@
 {
-  "name":"DG",
-  "description":"projeto nodejs",
+  "name":"DouglasGolke",
+  "description":"projeto nodejs website simples",
   "author":"Douglas Golke",
   "version":"1.0.0",
    "engines": {
     "node": "6.9.4"
-  }
-  "dependencies":{
   }
 }
