@@ -1,0 +1,9 @@
+{
+  "name":"DG",
+  "description":"projeto nodejs",
+  "author":"Douglas Golke",
+  "version":"1.0.0",
+  "private":true,
+  "dependencies":{
+  }
+}
