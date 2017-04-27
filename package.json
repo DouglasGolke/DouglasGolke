@@ -8,6 +8,6 @@
 	"npm": "3.10.10"
   }
   "scripts": {
-  "start": "node index.html",
+  "start": "node index.html"
 }
 }
