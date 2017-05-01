@@ -44,6 +44,10 @@ nav {
 }
 
 nav > a {
+
+    -webkit-animation-duration: 4s;
+    -webkit-animation-delay: 1s;
+    -webkit-animation-iteration-count: infinite;
     text-decoration: none;
     color: #f1f1f1;
     font-weight: 700;
@@ -148,6 +152,7 @@ SERVIÇOS
 }
 
 #servicos div {
+
     flex-grow: 1;
     flex-basis: 150px;
     padding: 0 10px;
@@ -156,6 +161,12 @@ SERVIÇOS
     align-items: center;
     text-align: center;
     margin-top: 30px;
+}
+
+#servicos div > img {
+  -webkit-animation-duration: 3s;
+  -webkit-animation-delay: 1s;
+  -webkit-animation-iteration-count: infinite;
 }
 
 /*
