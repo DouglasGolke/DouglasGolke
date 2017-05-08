@@ -50,7 +50,7 @@ nav {
 }
 
 nav > a {
-
+    
     -webkit-animation-duration: 4s;
     -webkit-animation-delay: 1s;
     -webkit-animation-iteration-count: infinite;
