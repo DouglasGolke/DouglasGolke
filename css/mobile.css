@@ -9,6 +9,7 @@
 }
 #btn{
   display: none;
+  width: 0%;
 }
 
 #btn:checked ~ .menu ul{
@@ -164,11 +165,11 @@ SERVIÇOS
     margin-top: 30px;
 }
 
-#servicos div > img {
+/*#servicos div > img {
   -webkit-animation-duration: 3s;
   -webkit-animation-delay: 1s;
   -webkit-animation-iteration-count: infinite;
-}
+}*/
 
 /*
 PORTFOLIO
