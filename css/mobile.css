@@ -11,6 +11,8 @@
 }
 
 #btn:checked ~ .menu ul{
+  display: block;
+  margin-left: 0;
   margin: 0;
   position: inherit;
 }
@@ -43,7 +45,7 @@ NAVEGAÇÃO
 nav {
     display: block;
     flex-direction: column;
-    /*align-items: center;*/
+    align-items: center;
     background-color: #4d4d4d;
 }
 
@@ -62,7 +64,7 @@ nav > a {
 nav ul {
     list-style: none;
     padding: 0;
-    display: block;
+    display: none;
     flex-direction: column;
     width: 100%;
     margin-left: 100%;
